@@ -1,0 +1,1108 @@
+2025-11-23 11:21:49 INFO  utils.Hooks - Setting Extent system info...
+2025-11-23 11:21:49 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-23 11:21:49 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 11:21:49 INFO  utils.Config - Loading config for environment: qa
+2025-11-23 11:21:49 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-23 11:21:49 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 11:21:51 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 11:21:51 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 11:21:51 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 11:21:51 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-23 11:26:33 INFO  utils.Hooks - Setting Extent system info...
+2025-11-23 11:26:33 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-23 11:26:33 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 11:26:33 INFO  utils.Config - Loading config for environment: qa
+2025-11-23 11:26:33 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-23 11:26:33 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 11:26:34 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 11:26:34 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 11:26:34 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 11:26:35 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-23 11:28:29 INFO  utils.Hooks - Setting Extent system info...
+2025-11-23 11:28:29 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-23 11:28:29 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 11:28:29 INFO  utils.Config - Loading config for environment: qa
+2025-11-23 11:28:29 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-23 11:28:29 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 11:28:31 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 11:28:31 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 11:28:31 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 11:28:31 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-23 11:29:02 INFO  utils.Hooks - Setting Extent system info...
+2025-11-23 11:29:02 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-23 11:29:02 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 11:29:02 INFO  utils.Config - Loading config for environment: qa
+2025-11-23 11:29:02 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-23 11:29:02 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 11:29:03 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 11:29:03 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-23 11:29:03 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-23 11:29:04 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-23 11:29:04 INFO  page_Object.Login_Page - Attempting login with username: Admin
+2025-11-23 11:29:04 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-23 11:29:04 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-23 11:29:04 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 11:29:04 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 11:29:04 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-23 11:30:27 INFO  utils.Hooks - Setting Extent system info...
+2025-11-23 11:30:27 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-23 11:30:27 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 11:30:27 INFO  utils.Config - Loading config for environment: qa
+2025-11-23 11:30:27 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-23 11:30:27 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 11:30:28 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 11:30:28 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-23 11:30:28 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-23 11:30:28 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-23 11:30:28 INFO  page_Object.Login_Page - Attempting login with username: Admin
+2025-11-23 11:30:28 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-23 11:30:29 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-23 11:30:29 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 11:30:29 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 11:30:29 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-23 11:31:30 INFO  utils.Hooks - Setting Extent system info...
+2025-11-23 11:31:30 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-23 11:31:30 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 11:31:30 INFO  utils.Config - Loading config for environment: qa
+2025-11-23 11:31:30 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-23 11:31:30 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 11:31:32 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 11:31:32 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-23 11:31:32 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-23 11:31:32 INFO  page_Object.Login_Page - Attempting login with username: Admin
+2025-11-23 11:31:32 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-23 11:31:32 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-23 11:31:32 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 11:31:32 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 11:31:32 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-23 11:38:23 INFO  utils.Hooks - Setting Extent system info...
+2025-11-23 11:38:23 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-23 11:38:23 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 11:38:23 INFO  utils.Config - Loading config for environment: qa
+2025-11-23 11:38:23 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-23 11:38:23 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 11:38:24 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 11:38:24 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 11:38:24 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 11:38:24 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-23 11:39:20 INFO  utils.Hooks - Setting Extent system info...
+2025-11-23 11:39:20 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-23 11:39:20 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 11:39:20 INFO  utils.Config - Loading config for environment: qa
+2025-11-23 11:39:20 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-23 11:39:20 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 11:39:21 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 11:39:21 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-23 11:39:21 INFO  page_Object.Login_Page - Navigating to OrangeHRM Login Page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-23 11:39:22 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-23 11:39:22 INFO  page_Object.Login_Page - Attempting login with username: Admin
+2025-11-23 11:39:22 INFO  page_Object.Login_Page - Login button clicked.
+2025-11-23 11:39:22 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-23 11:39:22 INFO  page_Object.Login_Page - Checking for Dashboard visibility...
+2025-11-23 11:39:24 INFO  page_Object.Login_Page - Dashboard is visible. Login successful.
+2025-11-23 11:39:24 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-23 11:39:24 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 11:39:24 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 11:39:24 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-23 12:23:08 INFO  utils.Hooks - Setting Extent system info...
+2025-11-23 12:23:08 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-23 12:23:08 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 12:23:08 INFO  utils.Config - Loading config for environment: qa
+2025-11-23 12:23:08 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-23 12:23:08 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 12:23:10 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 12:23:10 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-23 12:23:10 INFO  page_Object.Login_Page - Navigating to OrangeHRM Login Page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-23 12:23:10 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-23 12:23:10 INFO  page_Object.Login_Page - Attempting login with username: Admin
+2025-11-23 12:23:11 INFO  page_Object.Login_Page - Login button clicked.
+2025-11-23 12:23:11 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-23 12:23:11 INFO  page_Object.Login_Page - Checking for Dashboard visibility...
+2025-11-23 12:23:12 INFO  page_Object.Login_Page - Dashboard is visible. Login successful.
+2025-11-23 12:23:12 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-23 12:23:12 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 12:23:12 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 12:23:12 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-23 12:23:12 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 12:23:12 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 12:23:13 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 12:23:13 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-23 12:23:13 INFO  page_Object.Login_Page - Navigating to OrangeHRM Login Page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-23 12:23:13 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-23 12:23:13 INFO  page_Object.Login_Page - Attempting login with username: Admin
+2025-11-23 12:23:14 INFO  page_Object.Login_Page - Login button clicked.
+2025-11-23 12:23:14 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-23 12:23:14 INFO  page_Object.Login_Page - Checking for Dashboard visibility...
+2025-11-23 12:23:15 INFO  page_Object.Login_Page - Dashboard is visible. Login successful.
+2025-11-23 12:23:15 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-23 12:23:15 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 12:23:15 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 12:23:15 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-23 12:36:28 INFO  utils.Hooks - Setting Extent system info...
+2025-11-23 12:36:28 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-23 12:36:28 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 12:36:28 INFO  utils.Config - Loading config for environment: qa
+2025-11-23 12:36:28 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-23 12:36:28 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 12:36:30 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 12:36:30 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-23 12:36:30 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-23 12:36:30 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-23 12:36:30 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-23 12:36:30 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-23 12:36:31 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-23 12:36:31 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-23 12:36:31 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-23 12:36:32 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-23 12:36:32 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-23 12:36:32 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 12:36:32 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 12:36:32 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-23 12:36:32 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 12:36:32 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 12:36:33 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 12:36:33 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-23 12:36:33 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-23 12:36:34 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-23 12:36:34 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-23 12:36:34 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-23 12:36:34 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-23 12:36:34 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-23 12:36:34 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-23 12:36:35 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-23 12:36:35 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-23 12:36:35 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 12:36:35 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 12:36:36 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-23 15:17:20 INFO  utils.Hooks - Setting Extent system info...
+2025-11-23 15:17:20 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-23 15:17:20 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 15:17:20 INFO  utils.Config - Loading config for environment: qa
+2025-11-23 15:17:20 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-23 15:17:20 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 15:17:22 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 15:17:22 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-23 15:17:22 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-23 15:17:23 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-23 15:17:23 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-23 15:17:23 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-23 15:17:23 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-23 15:17:23 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-23 15:17:23 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-23 15:17:24 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-23 15:17:24 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-23 15:17:24 INFO  step_Definitions.PIM_Page_Step_Definitions - Navigating to PIM menu...
+2025-11-23 15:17:24 INFO  page_Object.PIM_Page - Clicking on: PIM menu
+2025-11-23 15:17:25 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Add Employee' button...
+2025-11-23 15:17:25 INFO  page_Object.PIM_Page - Clicking on: Add Employee button
+2025-11-23 15:17:26 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering first name: John
+2025-11-23 15:17:26 INFO  page_Object.PIM_Page - Typing 'John' into: First name field
+2025-11-23 15:17:26 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering middle name: A
+2025-11-23 15:17:26 INFO  page_Object.PIM_Page - Typing 'A' into: Middle name field
+2025-11-23 15:17:26 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering last name: Doe
+2025-11-23 15:17:26 INFO  page_Object.PIM_Page - Typing 'Doe' into: Last name field
+2025-11-23 15:17:27 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering random employee ID: EMP1763929047048
+2025-11-23 15:17:27 INFO  page_Object.PIM_Page - Typing '409bae' into: Employee ID field
+2025-11-23 15:17:27 INFO  page_Object.PIM_Page - Random Employee ID used: 409bae
+2025-11-23 15:17:27 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Create Login Details' toggle...
+2025-11-23 15:17:27 INFO  page_Object.PIM_Page - Clicking on: Create Login Details toggle
+2025-11-23 15:17:37 ERROR utils.Hooks - Scenario FAILED: Add employee to the system
+2025-11-23 15:17:37 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-23 15:17:37 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 15:17:37 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 15:17:37 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-23 15:30:20 INFO  utils.Hooks - Setting Extent system info...
+2025-11-23 15:30:20 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-23 15:30:20 INFO  utils.Hooks - Starting WebDriver...
+2025-11-23 15:30:20 INFO  utils.Config - Loading config for environment: qa
+2025-11-23 15:30:20 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-23 15:30:20 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-23 15:30:21 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-23 15:30:21 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-23 15:30:21 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-23 15:30:22 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-23 15:30:22 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-23 15:30:22 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-23 15:30:23 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-23 15:30:23 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-23 15:30:23 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-23 15:30:24 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-23 15:30:24 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-23 15:30:24 INFO  step_Definitions.PIM_Page_Step_Definitions - Navigating to PIM menu...
+2025-11-23 15:30:24 INFO  page_Object.PIM_Page - Clicking on: PIM menu
+2025-11-23 15:30:24 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Add Employee' button...
+2025-11-23 15:30:24 INFO  page_Object.PIM_Page - Clicking on: Add Employee button
+2025-11-23 15:30:25 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering first name: John
+2025-11-23 15:30:25 INFO  page_Object.PIM_Page - Typing 'John' into: First name field
+2025-11-23 15:30:26 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering middle name: A
+2025-11-23 15:30:26 INFO  page_Object.PIM_Page - Typing 'A' into: Middle name field
+2025-11-23 15:30:26 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering last name: Doe
+2025-11-23 15:30:26 INFO  page_Object.PIM_Page - Typing 'Doe' into: Last name field
+2025-11-23 15:30:26 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering random employee ID: EMP1763929826125
+2025-11-23 15:30:26 INFO  page_Object.PIM_Page - Typing '8fefda' into: Employee ID field
+2025-11-23 15:30:26 INFO  page_Object.PIM_Page - Random Employee ID used: 8fefda
+2025-11-23 15:30:26 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Create Login Details' toggle...
+2025-11-23 15:30:26 INFO  page_Object.PIM_Page - Clicking on: Create Login Details toggle
+2025-11-23 15:30:26 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering login username: emp_EMP1763929826125
+2025-11-23 15:30:26 INFO  page_Object.PIM_Page - Typing 'emp_EMP1763929826125' into: Login username field
+2025-11-23 15:30:26 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering login password.
+2025-11-23 15:30:26 INFO  page_Object.PIM_Page - Typing 'Password!' into: Login password field
+2025-11-23 15:30:26 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering confirm password.
+2025-11-23 15:30:26 INFO  page_Object.PIM_Page - Typing 'Password!' into: Confirm password field
+2025-11-23 15:30:26 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking Save button...
+2025-11-23 15:30:26 INFO  page_Object.PIM_Page - Clicking on: Save button
+2025-11-23 15:30:26 INFO  step_Definitions.PIM_Page_Step_Definitions - Verifying that employee was added successfully...
+2025-11-23 15:30:47 ERROR page_Object.PIM_Page - Employee add success indicator not found.
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h6[text()='Personal Details'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\hasan\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60717}, goog:processID: 24268, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60717/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d642610c54f942e973e345ed5ca2c959
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.24.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.24.0.jar:?]
+	at page_Object.Base_Page.waitForVisible(Base_Page.java:25) ~[test-classes/:?]
+	at page_Object.PIM_Page.isEmployeeAddedSuccessfully(PIM_Page.java:100) ~[test-classes/:?]
+	at step_Definitions.PIM_Page_Step_Definitions.user_verifies_the_employee_has_been_added_successfully(PIM_Page_Step_Definitions.java:125) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-11-23 15:30:47 ERROR utils.Hooks - Scenario FAILED: Add employee to the system
+2025-11-23 15:30:47 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-23 15:30:47 INFO  utils.Hooks - Closing WebDriver...
+2025-11-23 15:30:47 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-23 15:30:47 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-24 09:39:10 INFO  utils.Hooks - Setting Extent system info...
+2025-11-24 09:39:10 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-24 09:39:10 INFO  utils.Hooks - Starting WebDriver...
+2025-11-24 09:39:10 INFO  utils.Config - Loading config for environment: qa
+2025-11-24 09:39:10 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-24 09:39:10 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-24 09:39:12 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-24 09:39:12 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-24 09:39:12 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-24 09:39:13 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-24 09:39:13 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-24 09:39:13 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-24 09:39:14 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-24 09:39:14 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-24 09:39:14 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-24 09:39:15 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-24 09:39:15 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-24 09:39:15 INFO  step_Definitions.PIM_Page_Step_Definitions - Navigating to PIM menu...
+2025-11-24 09:39:15 INFO  page_Object.PIM_Page - Clicking on: PIM menu
+2025-11-24 09:39:15 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Add Employee' button...
+2025-11-24 09:39:15 INFO  page_Object.PIM_Page - Clicking on: Add Employee button
+2025-11-24 09:39:16 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering first name: John
+2025-11-24 09:39:16 INFO  page_Object.PIM_Page - Typing 'John' into: First name field
+2025-11-24 09:39:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering middle name: A
+2025-11-24 09:39:17 INFO  page_Object.PIM_Page - Typing 'A' into: Middle name field
+2025-11-24 09:39:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering last name: Doe
+2025-11-24 09:39:17 INFO  page_Object.PIM_Page - Typing 'Doe' into: Last name field
+2025-11-24 09:39:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering random employee ID: EMP1763995157475
+2025-11-24 09:39:17 INFO  page_Object.PIM_Page - Typing '1192ad' into: Employee ID field
+2025-11-24 09:39:17 INFO  page_Object.PIM_Page - Random Employee ID used: 1192ad
+2025-11-24 09:39:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Create Login Details' toggle...
+2025-11-24 09:39:17 INFO  page_Object.PIM_Page - Clicking on: Create Login Details toggle
+2025-11-24 09:39:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering login username: emp_EMP1763995157475
+2025-11-24 09:39:17 INFO  page_Object.PIM_Page - Typing 'emp_EMP1763995157475' into: Login username field
+2025-11-24 09:39:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering login password.
+2025-11-24 09:39:17 INFO  page_Object.PIM_Page - Typing 'Password!' into: Login password field
+2025-11-24 09:39:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering confirm password.
+2025-11-24 09:39:17 INFO  page_Object.PIM_Page - Typing 'Password!' into: Confirm password field
+2025-11-24 09:39:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking Save button...
+2025-11-24 09:39:17 INFO  page_Object.PIM_Page - Clicking on: Save button
+2025-11-24 09:39:18 INFO  step_Definitions.PIM_Page_Step_Definitions - Verifying that employee was added successfully...
+2025-11-24 09:39:38 ERROR page_Object.PIM_Page - Employee add success indicator not found.
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h6[text()='Personal Details'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\hasan\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56790}, goog:processID: 14148, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56790/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d6dc3484ea3f81dcd4d9d0eb93608da3
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.24.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.24.0.jar:?]
+	at page_Object.Base_Page.waitForVisible(Base_Page.java:25) ~[test-classes/:?]
+	at page_Object.PIM_Page.isEmployeeAddedSuccessfully(PIM_Page.java:100) ~[test-classes/:?]
+	at step_Definitions.PIM_Page_Step_Definitions.user_verifies_the_employee_has_been_added_successfully(PIM_Page_Step_Definitions.java:125) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-11-24 09:39:38 ERROR utils.Hooks - Scenario FAILED: Add employee to the system
+2025-11-24 09:39:39 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-24 09:39:39 INFO  utils.Hooks - Closing WebDriver...
+2025-11-24 09:39:39 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-24 09:39:39 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-24 09:49:11 INFO  utils.Hooks - Setting Extent system info...
+2025-11-24 09:49:11 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-24 09:49:11 INFO  utils.Hooks - Starting WebDriver...
+2025-11-24 09:49:11 INFO  utils.Config - Loading config for environment: qa
+2025-11-24 09:49:11 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-24 09:49:11 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-24 09:49:13 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-24 09:49:13 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-24 09:49:13 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-24 09:49:13 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-24 09:49:13 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-24 09:49:13 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-24 09:49:14 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-24 09:49:14 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-24 09:49:14 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-24 09:49:15 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-24 09:49:15 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-24 09:49:15 INFO  step_Definitions.PIM_Page_Step_Definitions - Navigating to PIM menu...
+2025-11-24 09:49:15 INFO  page_Object.PIM_Page - Clicking on: PIM menu
+2025-11-24 09:49:15 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Add Employee' button...
+2025-11-24 09:49:15 INFO  page_Object.PIM_Page - Clicking on: Add Employee button
+2025-11-24 09:49:16 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering first name: John
+2025-11-24 09:49:16 INFO  page_Object.PIM_Page - Typing 'John' into: First name field
+2025-11-24 09:49:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering middle name: A
+2025-11-24 09:49:17 INFO  page_Object.PIM_Page - Typing 'A' into: Middle name field
+2025-11-24 09:49:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering last name: Doe
+2025-11-24 09:49:17 INFO  page_Object.PIM_Page - Typing 'Doe' into: Last name field
+2025-11-24 09:49:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering random employee ID: EMP1763995757353
+2025-11-24 09:49:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Create Login Details' toggle...
+2025-11-24 09:49:17 INFO  page_Object.PIM_Page - Clicking on: Create Login Details toggle
+2025-11-24 09:49:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering login username: emp_EMP1763995757353
+2025-11-24 09:49:17 INFO  page_Object.PIM_Page - Typing 'emp_EMP1763995757353' into: Login username field
+2025-11-24 09:49:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering login password.
+2025-11-24 09:49:17 INFO  page_Object.PIM_Page - Typing 'Password!' into: Login password field
+2025-11-24 09:49:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering confirm password.
+2025-11-24 09:49:17 INFO  page_Object.PIM_Page - Typing 'Password!' into: Confirm password field
+2025-11-24 09:49:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking Save button...
+2025-11-24 09:49:17 INFO  page_Object.PIM_Page - Clicking on: Save button
+2025-11-24 09:49:17 INFO  step_Definitions.PIM_Page_Step_Definitions - Verifying that employee was added successfully...
+2025-11-24 09:49:38 ERROR page_Object.PIM_Page - Employee add success indicator not found.
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h6[text()='Personal Details'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\hasan\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53424}, goog:processID: 8244, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53424/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1047a67ddbe899ea2c01dd5f57d9a1a2
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.24.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.24.0.jar:?]
+	at page_Object.Base_Page.waitForVisible(Base_Page.java:25) ~[test-classes/:?]
+	at page_Object.PIM_Page.isEmployeeAddedSuccessfully(PIM_Page.java:127) ~[test-classes/:?]
+	at step_Definitions.PIM_Page_Step_Definitions.user_verifies_the_employee_has_been_added_successfully(PIM_Page_Step_Definitions.java:125) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-11-24 09:49:38 ERROR utils.Hooks - Scenario FAILED: Add employee to the system
+2025-11-24 09:49:38 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-24 09:49:38 INFO  utils.Hooks - Closing WebDriver...
+2025-11-24 09:49:38 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-24 09:49:38 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-24 09:49:50 INFO  utils.Hooks - Setting Extent system info...
+2025-11-24 09:49:50 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-24 09:49:50 INFO  utils.Hooks - Starting WebDriver...
+2025-11-24 09:49:50 INFO  utils.Config - Loading config for environment: qa
+2025-11-24 09:49:50 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-24 09:49:50 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-24 09:49:51 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-24 09:49:51 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-24 09:49:51 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-24 09:49:52 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-24 09:49:52 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-24 09:49:52 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-24 09:49:52 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-24 09:49:52 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-24 09:49:53 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-24 09:49:54 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-24 09:49:54 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-24 09:49:54 INFO  step_Definitions.PIM_Page_Step_Definitions - Navigating to PIM menu...
+2025-11-24 09:49:54 INFO  page_Object.PIM_Page - Clicking on: PIM menu
+2025-11-24 09:49:54 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Add Employee' button...
+2025-11-24 09:49:54 INFO  page_Object.PIM_Page - Clicking on: Add Employee button
+2025-11-24 09:49:55 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering first name: John
+2025-11-24 09:49:55 INFO  page_Object.PIM_Page - Typing 'John' into: First name field
+2025-11-24 09:49:55 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering middle name: A
+2025-11-24 09:49:55 INFO  page_Object.PIM_Page - Typing 'A' into: Middle name field
+2025-11-24 09:49:55 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering last name: Doe
+2025-11-24 09:49:55 INFO  page_Object.PIM_Page - Typing 'Doe' into: Last name field
+2025-11-24 09:49:55 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering random employee ID: EMP1763995795989
+2025-11-24 09:49:55 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Create Login Details' toggle...
+2025-11-24 09:49:55 INFO  page_Object.PIM_Page - Clicking on: Create Login Details toggle
+2025-11-24 09:49:56 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering login username: emp_EMP1763995795989
+2025-11-24 09:49:56 INFO  page_Object.PIM_Page - Typing 'emp_EMP1763995795989' into: Login username field
+2025-11-24 09:49:56 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering login password.
+2025-11-24 09:49:56 INFO  page_Object.PIM_Page - Typing 'Password!' into: Login password field
+2025-11-24 09:49:56 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering confirm password.
+2025-11-24 09:49:56 INFO  page_Object.PIM_Page - Typing 'Password!' into: Confirm password field
+2025-11-24 09:49:56 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking Save button...
+2025-11-24 09:49:56 INFO  page_Object.PIM_Page - Clicking on: Save button
+2025-11-24 09:49:56 INFO  step_Definitions.PIM_Page_Step_Definitions - Verifying that employee was added successfully...
+2025-11-24 09:50:17 ERROR page_Object.PIM_Page - Employee add success indicator not found.
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //h6[text()='Personal Details'] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '22.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: C:\Users\hasan\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63161}, goog:processID: 9164, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:63161/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f54cd8394a141f4f8983e04b0fd4e624
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.24.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.24.0.jar:?]
+	at page_Object.Base_Page.waitForVisible(Base_Page.java:25) ~[test-classes/:?]
+	at page_Object.PIM_Page.isEmployeeAddedSuccessfully(PIM_Page.java:127) ~[test-classes/:?]
+	at step_Definitions.PIM_Page_Step_Definitions.user_verifies_the_employee_has_been_added_successfully(PIM_Page_Step_Definitions.java:125) ~[test-classes/:?]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29) ~[cucumber-java-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:56) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:84) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:75) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.lambda$runScenario$1(TestNGCucumberRunner.java:132) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.lambda$runTestCase$5(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.RethrowingThrowableCollector.executeAndThrow(RethrowingThrowableCollector.java:23) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.core.runtime.CucumberExecutionContext.runTestCase(CucumberExecutionContext.java:137) ~[cucumber-core-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.TestNGCucumberRunner.runScenario(TestNGCucumberRunner.java:129) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at io.cucumber.testng.AbstractTestNGCucumberTests.runScenario(AbstractTestNGCucumberTests.java:35) ~[cucumber-testng-7.14.0.jar:7.14.0]
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148) ~[testng-7.8.0.jar:7.8.0]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128) ~[testng-7.8.0.jar:7.8.0]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:848) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestRunner.run(TestRunner.java:621) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:336) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [testng-7.8.0.jar:7.8.0]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1200) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.runSuites(TestNG.java:1114) [testng-7.8.0.jar:7.8.0]
+	at org.testng.TestNG.run(TestNG.java:1082) [testng-7.8.0.jar:7.8.0]
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65) [testng-rt.jar:?]
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105) [testng-rt.jar:?]
+2025-11-24 09:50:17 ERROR utils.Hooks - Scenario FAILED: Add employee to the system
+2025-11-24 09:50:17 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-24 09:50:17 INFO  utils.Hooks - Closing WebDriver...
+2025-11-24 09:50:17 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-24 09:50:17 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-24 09:56:06 INFO  utils.Hooks - Setting Extent system info...
+2025-11-24 09:56:06 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-24 09:56:06 INFO  utils.Hooks - Starting WebDriver...
+2025-11-24 09:56:06 INFO  utils.Config - Loading config for environment: qa
+2025-11-24 09:56:06 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-24 09:56:06 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-24 09:56:07 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-24 09:56:07 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-24 09:56:07 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-24 09:56:08 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-24 09:56:08 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-24 09:56:08 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-24 09:56:09 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-24 09:56:09 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-24 09:56:09 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-24 09:56:10 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-24 09:56:10 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-24 09:56:10 INFO  step_Definitions.PIM_Page_Step_Definitions - Navigating to PIM menu...
+2025-11-24 09:56:10 INFO  page_Object.PIM_Page - Clicking on: PIM menu
+2025-11-24 09:56:10 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Add Employee' button...
+2025-11-24 09:56:10 INFO  page_Object.PIM_Page - Clicking on: Add Employee button
+2025-11-24 09:56:11 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering first name: John
+2025-11-24 09:56:11 INFO  page_Object.PIM_Page - Typing 'John' into: First name field
+2025-11-24 09:56:12 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering middle name: A
+2025-11-24 09:56:12 INFO  page_Object.PIM_Page - Typing 'A' into: Middle name field
+2025-11-24 09:56:12 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering last name: Doe
+2025-11-24 09:56:12 INFO  page_Object.PIM_Page - Typing 'Doe' into: Last name field
+2025-11-24 09:56:12 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering random employee ID: EMP1763996172314
+2025-11-24 09:56:12 INFO  page_Object.PIM_Page - Typing '12e2f4' into: Employee ID field
+2025-11-24 09:56:12 INFO  page_Object.PIM_Page - Random Employee ID used: 12e2f4
+2025-11-24 09:56:12 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Create Login Details' toggle...
+2025-11-24 09:56:12 INFO  page_Object.PIM_Page - Clicking on: Create Login Details toggle
+2025-11-24 09:56:12 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering login username: emp_EMP1763996172314
+2025-11-24 09:56:12 INFO  page_Object.PIM_Page - Typing 'emp_EMP1763996172314' into: Login username field
+2025-11-24 09:56:12 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering login password.
+2025-11-24 09:56:12 INFO  page_Object.PIM_Page - Typing 'Password!1' into: Login password field
+2025-11-24 09:56:12 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering confirm password.
+2025-11-24 09:56:12 INFO  page_Object.PIM_Page - Typing 'Password!1' into: Confirm password field
+2025-11-24 09:56:12 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking Save button...
+2025-11-24 09:56:12 INFO  page_Object.PIM_Page - Clicking on: Save button
+2025-11-24 09:56:12 INFO  step_Definitions.PIM_Page_Step_Definitions - Verifying that employee was added successfully...
+2025-11-24 09:56:14 INFO  page_Object.PIM_Page - Success toast is visible.
+2025-11-24 09:56:14 INFO  step_Definitions.PIM_Page_Step_Definitions - Employee added successfully.
+2025-11-24 09:56:14 INFO  utils.Hooks - Closing WebDriver...
+2025-11-24 09:56:14 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-24 09:56:14 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-24 10:09:45 INFO  utils.Hooks - Setting Extent system info...
+2025-11-24 10:09:45 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-24 10:09:45 INFO  utils.Hooks - Starting WebDriver...
+2025-11-24 10:09:45 INFO  utils.Config - Loading config for environment: qa
+2025-11-24 10:09:45 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-24 10:09:45 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-24 10:09:47 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-24 10:09:47 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-24 10:09:47 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-24 10:09:47 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-24 10:09:47 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-24 10:09:47 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-24 10:09:48 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-24 10:09:48 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-24 10:09:48 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-24 10:09:49 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-24 10:09:49 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-24 10:09:49 INFO  step_Definitions.PIM_Page_Step_Definitions - Navigating to PIM menu...
+2025-11-24 10:09:49 INFO  page_Object.PIM_Page - Clicking on: PIM menu
+2025-11-24 10:09:49 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Add Employee' button...
+2025-11-24 10:09:49 INFO  page_Object.PIM_Page - Clicking on: Add Employee button
+2025-11-24 10:09:50 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering first name: John
+2025-11-24 10:09:50 INFO  page_Object.PIM_Page - Typing 'John' into: First name field
+2025-11-24 10:09:51 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering middle name: A
+2025-11-24 10:09:51 INFO  page_Object.PIM_Page - Typing 'A' into: Middle name field
+2025-11-24 10:09:51 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering last name: Doe
+2025-11-24 10:09:51 INFO  page_Object.PIM_Page - Typing 'Doe' into: Last name field
+2025-11-24 10:09:51 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering random employee ID: EMP1763996991420
+2025-11-24 10:09:51 INFO  page_Object.PIM_Page - Typing 'a27e1c' into: Employee ID field
+2025-11-24 10:09:51 INFO  page_Object.PIM_Page - Random Employee ID used: a27e1c
+2025-11-24 10:09:51 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking on 'Create Login Details' toggle...
+2025-11-24 10:09:51 INFO  page_Object.PIM_Page - Clicking on: Create Login Details toggle
+2025-11-24 10:09:51 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering login username: emp_EMP1763996991420
+2025-11-24 10:09:51 INFO  page_Object.PIM_Page - Typing 'emp_EMP1763996991420' into: Login username field
+2025-11-24 10:09:51 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering login password.
+2025-11-24 10:09:51 INFO  page_Object.PIM_Page - Typing 'Password!1' into: Login password field
+2025-11-24 10:09:51 INFO  step_Definitions.PIM_Page_Step_Definitions - Entering confirm password.
+2025-11-24 10:09:51 INFO  page_Object.PIM_Page - Typing 'Password!1' into: Confirm password field
+2025-11-24 10:09:51 INFO  step_Definitions.PIM_Page_Step_Definitions - Clicking Save button...
+2025-11-24 10:09:51 INFO  page_Object.PIM_Page - Clicking on: Save button
+2025-11-24 10:09:51 INFO  step_Definitions.PIM_Page_Step_Definitions - Verifying that employee was added successfully...
+2025-11-24 10:09:53 INFO  page_Object.PIM_Page - Success toast is visible.
+2025-11-24 10:09:53 INFO  step_Definitions.PIM_Page_Step_Definitions - Employee added successfully.
+2025-11-24 10:09:53 INFO  utils.Hooks - Closing WebDriver...
+2025-11-24 10:09:53 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-24 10:09:53 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-24 11:23:34 INFO  utils.Hooks - Setting Extent system info...
+2025-11-24 11:23:34 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-24 11:23:34 INFO  utils.Hooks - Starting WebDriver...
+2025-11-24 11:23:34 INFO  utils.Config - Loading config for environment: qa
+2025-11-24 11:23:34 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-24 11:23:34 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-24 11:23:35 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-24 11:23:35 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-24 11:23:35 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-24 11:23:36 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-24 11:23:36 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-24 11:23:36 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-24 11:23:37 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-24 11:23:37 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-24 11:23:37 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-24 11:23:38 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-24 11:23:38 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-24 11:23:38 INFO  utils.Hooks - Closing WebDriver...
+2025-11-24 11:23:38 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-24 11:23:38 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-24 11:29:18 INFO  utils.Hooks - Setting Extent system info...
+2025-11-24 11:29:18 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-24 11:29:18 INFO  utils.Hooks - Starting WebDriver...
+2025-11-24 11:29:18 INFO  utils.Config - Loading config for environment: qa
+2025-11-24 11:29:18 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-24 11:29:18 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-24 11:29:19 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-24 11:29:19 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-24 11:29:19 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-24 11:29:19 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-24 11:29:19 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-24 11:29:19 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-24 11:29:20 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-24 11:29:20 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-24 11:29:20 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-24 11:29:21 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-24 11:29:21 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-24 11:29:21 ERROR utils.Hooks - Scenario FAILED: Validate multiple personal details using Map
+2025-11-24 11:29:21 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-24 11:29:21 INFO  utils.Hooks - Closing WebDriver...
+2025-11-24 11:29:21 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-24 11:29:21 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-24 11:41:06 INFO  utils.Hooks - Setting Extent system info...
+2025-11-24 11:41:06 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-24 11:41:06 INFO  utils.Hooks - Starting WebDriver...
+2025-11-24 11:41:06 INFO  utils.Config - Loading config for environment: qa
+2025-11-24 11:41:06 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-24 11:41:06 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-24 11:41:08 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-24 11:41:08 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-24 11:41:08 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-24 11:41:08 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-24 11:41:08 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-24 11:41:08 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-24 11:41:09 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-24 11:41:09 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-24 11:41:09 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-24 11:41:10 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-24 11:41:10 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-24 11:41:10 INFO  step_Definitions.PersonalDetails_Step_Definitions - Navigating to My Info page...
+2025-11-24 11:41:11 INFO  step_Definitions.PersonalDetails_Step_Definitions - Collecting expected personal details...
+2025-11-24 11:41:11 INFO  step_Definitions.PersonalDetails_Step_Definitions - Validating actual personal details against expected...
+2025-11-24 11:41:11 ERROR utils.Hooks - Scenario FAILED: Validate multiple personal details using Map
+2025-11-24 11:41:11 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-24 11:41:11 INFO  utils.Hooks - Closing WebDriver...
+2025-11-24 11:41:11 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-24 11:41:11 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-24 11:43:44 INFO  utils.Hooks - Setting Extent system info...
+2025-11-24 11:43:44 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-24 11:43:44 INFO  utils.Hooks - Starting WebDriver...
+2025-11-24 11:43:44 INFO  utils.Config - Loading config for environment: qa
+2025-11-24 11:43:44 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-24 11:43:44 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-24 11:43:45 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-24 11:43:45 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-24 11:43:45 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-24 11:43:46 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-24 11:43:46 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-24 11:43:46 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-24 11:43:47 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-24 11:43:47 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-24 11:43:47 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-24 11:43:48 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-24 11:43:48 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-24 11:43:48 ERROR utils.Hooks - Scenario FAILED: Validate multiple personal details using Map
+2025-11-24 11:43:48 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-24 11:43:48 INFO  utils.Hooks - Closing WebDriver...
+2025-11-24 11:43:48 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-24 11:43:48 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-24 11:49:48 INFO  utils.Hooks - Setting Extent system info...
+2025-11-24 11:49:48 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-24 11:49:48 INFO  utils.Hooks - Starting WebDriver...
+2025-11-24 11:49:48 INFO  utils.Config - Loading config for environment: qa
+2025-11-24 11:49:48 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-24 11:49:48 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-24 11:49:49 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-24 11:49:49 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-24 11:49:49 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-24 11:49:50 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-24 11:49:50 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-24 11:49:50 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-24 11:49:50 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-24 11:49:51 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-24 11:49:51 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-24 11:49:52 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-24 11:49:52 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-24 11:49:52 ERROR utils.Hooks - Scenario FAILED: Validate multiple personal details using Map
+2025-11-24 11:49:52 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-24 11:49:52 INFO  utils.Hooks - Closing WebDriver...
+2025-11-24 11:49:52 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-24 11:49:52 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-24 11:52:28 INFO  utils.Hooks - Setting Extent system info...
+2025-11-24 11:52:28 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-24 11:52:28 INFO  utils.Hooks - Starting WebDriver...
+2025-11-24 11:52:28 INFO  utils.Config - Loading config for environment: qa
+2025-11-24 11:52:28 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-24 11:52:28 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-24 11:52:29 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-24 11:52:29 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-24 11:52:29 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-24 11:52:30 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-24 11:52:30 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-24 11:52:30 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-24 11:52:30 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-24 11:52:31 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-24 11:52:31 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-24 11:52:32 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-24 11:52:32 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-24 11:52:32 INFO  step_Definitions.PersonalDetails_Step_Definitions - Navigating to My Info page...
+2025-11-24 11:52:32 INFO  step_Definitions.PersonalDetails_Step_Definitions - Collecting expected personal details...
+2025-11-24 11:52:32 INFO  step_Definitions.PersonalDetails_Step_Definitions - Validating actual personal details...
+2025-11-24 11:52:32 ERROR utils.Hooks - Scenario FAILED: Validate multiple personal details using Map
+2025-11-24 11:52:32 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-24 11:52:32 INFO  utils.Hooks - Closing WebDriver...
+2025-11-24 11:52:32 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-24 11:52:32 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-25 10:56:33 INFO  utils.Hooks - Setting Extent system info...
+2025-11-25 10:56:33 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-25 10:56:33 INFO  utils.Hooks - Starting WebDriver...
+2025-11-25 10:56:33 INFO  utils.Config - Loading config for environment: qa
+2025-11-25 10:56:33 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-25 10:56:33 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-25 10:56:35 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-25 10:56:35 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-25 10:56:35 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-25 10:56:36 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-25 10:56:36 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-25 10:56:36 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-25 10:56:36 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-25 10:56:36 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-25 10:56:36 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-25 10:56:37 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-25 10:56:38 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-25 10:56:38 INFO  step_Definitions.PersonalDetails_Step_Definitions - Navigating to My Info page...
+2025-11-25 10:56:38 INFO  step_Definitions.PersonalDetails_Step_Definitions - Collecting expected personal details...
+2025-11-25 10:56:38 INFO  step_Definitions.PersonalDetails_Step_Definitions - Validating actual personal details...
+2025-11-25 10:56:38 ERROR utils.Hooks - Scenario FAILED: Validate multiple personal details using Map
+2025-11-25 10:56:38 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-25 10:56:38 INFO  utils.Hooks - Closing WebDriver...
+2025-11-25 10:56:38 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-25 10:56:38 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-26 10:22:59 INFO  utils.Hooks - Setting Extent system info...
+2025-11-26 10:22:59 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-26 10:22:59 INFO  utils.Hooks - Starting WebDriver...
+2025-11-26 10:22:59 INFO  utils.Config - Loading config for environment: qa
+2025-11-26 10:22:59 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-26 10:22:59 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-26 10:23:01 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-26 10:23:01 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-26 10:23:01 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-26 10:23:02 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-26 10:23:02 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-26 10:23:02 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-26 10:23:02 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-26 10:23:02 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-26 10:23:03 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-26 10:23:04 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-26 10:23:04 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-26 10:23:04 INFO  step_Definitions.PersonalDetails_Step_Definitions - Navigating to My Info page...
+2025-11-26 10:23:04 INFO  step_Definitions.PersonalDetails_Step_Definitions - Collecting expected personal details...
+2025-11-26 10:23:04 INFO  step_Definitions.PersonalDetails_Step_Definitions - Validating actual personal details...
+2025-11-26 10:23:04 ERROR utils.Hooks - Scenario FAILED: Validate multiple personal details using Map
+2025-11-26 10:23:04 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-26 10:23:04 INFO  utils.Hooks - Closing WebDriver...
+2025-11-26 10:23:04 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-26 10:23:04 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-26 10:23:36 INFO  utils.Hooks - Setting Extent system info...
+2025-11-26 10:23:36 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-26 10:23:36 INFO  utils.Hooks - Starting WebDriver...
+2025-11-26 10:23:36 INFO  utils.Config - Loading config for environment: qa
+2025-11-26 10:23:36 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-26 10:23:36 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-26 10:23:38 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-26 10:23:38 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-26 10:23:38 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-26 10:23:38 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-26 10:23:38 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-26 10:23:38 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-26 10:23:39 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-26 10:23:39 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-26 10:23:39 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-26 10:23:40 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-26 10:23:40 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-26 10:23:40 INFO  step_Definitions.PersonalDetails_Step_Definitions - Navigating to My Info page...
+2025-11-26 10:23:41 INFO  step_Definitions.PersonalDetails_Step_Definitions - Collecting expected personal details...
+2025-11-26 10:23:41 INFO  step_Definitions.PersonalDetails_Step_Definitions - Validating actual personal details...
+2025-11-26 10:23:41 ERROR utils.Hooks - Scenario FAILED: Validate multiple personal details using Map
+2025-11-26 10:23:41 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-26 10:23:41 INFO  utils.Hooks - Closing WebDriver...
+2025-11-26 10:23:41 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-26 10:23:41 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-26 11:35:42 INFO  utils.Hooks - Setting Extent system info...
+2025-11-26 11:35:42 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-26 11:35:42 INFO  utils.Hooks - Starting WebDriver...
+2025-11-26 11:35:42 INFO  utils.Config - Loading config for environment: qa
+2025-11-26 11:35:42 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-26 11:35:42 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-26 11:35:44 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-26 11:35:44 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-26 11:35:44 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-26 11:35:45 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-26 11:35:45 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-26 11:35:45 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-26 11:35:45 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-26 11:35:45 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-26 11:35:46 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-26 11:35:47 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-26 11:35:47 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-26 11:35:47 INFO  utils.Hooks - Closing WebDriver...
+2025-11-26 11:35:47 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-26 11:35:47 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-26 11:46:50 INFO  utils.Hooks - Setting Extent system info...
+2025-11-26 11:46:50 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-26 11:46:50 INFO  utils.Hooks - Starting WebDriver...
+2025-11-26 11:46:50 INFO  utils.Config - Loading config for environment: qa
+2025-11-26 11:46:50 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-26 11:46:50 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-26 11:46:51 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-26 11:46:51 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-26 11:46:51 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-26 11:46:52 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-26 11:46:52 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-26 11:46:52 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-26 11:46:53 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-26 11:46:53 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-26 11:46:53 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-26 11:46:54 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-26 11:46:54 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-26 11:46:54 INFO  utils.Hooks - Closing WebDriver...
+2025-11-26 11:46:54 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-26 11:46:54 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-26 11:54:38 INFO  utils.Hooks - Setting Extent system info...
+2025-11-26 11:54:38 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-26 11:54:38 INFO  utils.Hooks - Starting WebDriver...
+2025-11-26 11:54:38 INFO  utils.Config - Loading config for environment: qa
+2025-11-26 11:54:38 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-26 11:54:38 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-26 11:54:39 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-26 11:54:39 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-26 11:54:39 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-26 11:54:39 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-26 11:54:39 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-26 11:54:39 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-26 11:54:40 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-26 11:54:40 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-26 11:54:40 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-26 11:54:41 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-26 11:54:41 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-26 11:54:41 INFO  step_Definitions.PersonalDetails_Step_Definitions - Navigating to My Info page...
+2025-11-26 11:54:41 ERROR utils.Hooks - Scenario FAILED: Validate multiple personal details using Map
+2025-11-26 11:54:42 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-26 11:54:42 INFO  utils.Hooks - Closing WebDriver...
+2025-11-26 11:54:42 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-26 11:54:42 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-26 11:55:49 INFO  utils.Hooks - Setting Extent system info...
+2025-11-26 11:55:49 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-26 11:55:49 INFO  utils.Hooks - Starting WebDriver...
+2025-11-26 11:55:49 INFO  utils.Config - Loading config for environment: qa
+2025-11-26 11:55:49 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-26 11:55:49 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-26 11:55:50 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-26 11:55:50 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-26 11:55:50 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-26 11:55:50 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-26 11:55:50 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-26 11:55:50 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-26 11:55:51 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-26 11:55:51 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-26 11:55:51 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-26 11:55:53 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-26 11:55:53 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-26 11:55:53 ERROR utils.Hooks - Scenario FAILED: Validate multiple personal details using Map
+2025-11-26 11:55:53 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-26 11:55:53 INFO  utils.Hooks - Closing WebDriver...
+2025-11-26 11:55:53 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-26 11:55:53 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-26 11:56:27 INFO  utils.Hooks - Setting Extent system info...
+2025-11-26 11:56:27 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-26 11:56:27 INFO  utils.Hooks - Starting WebDriver...
+2025-11-26 11:56:27 INFO  utils.Config - Loading config for environment: qa
+2025-11-26 11:56:27 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-26 11:56:27 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-26 11:56:28 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-26 11:56:28 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-26 11:56:28 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-26 11:56:29 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-26 11:56:29 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-26 11:56:29 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-26 11:56:29 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-26 11:56:29 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-26 11:56:29 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-26 11:56:31 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-26 11:56:31 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-26 11:56:31 INFO  page_Object.PersonalDetails_Page - Clicking on My Info Menu
+2025-11-26 11:56:31 INFO  page_Object.PersonalDetails_Page - Clicking on: My info Menu
+2025-11-26 11:56:31 INFO  page_Object.PersonalDetails_Page - Entering First Name
+2025-11-26 11:56:31 INFO  page_Object.PersonalDetails_Page - Typing 'John' into: First Name Field
+2025-11-26 11:56:32 INFO  page_Object.PersonalDetails_Page - Entering middle name: {}
+2025-11-26 11:56:32 INFO  page_Object.PersonalDetails_Page - Typing 'A' into: Middle name field
+2025-11-26 11:56:32 INFO  page_Object.PersonalDetails_Page - Entering last name: {}
+2025-11-26 11:56:32 INFO  page_Object.PersonalDetails_Page - Typing 'Doe' into: Last name field
+2025-11-26 11:56:32 INFO  page_Object.PersonalDetails_Page - Selecting marital status: {}
+2025-11-26 11:56:32 INFO  page_Object.PersonalDetails_Page - Clicking on: Marital status dropdown
+2025-11-26 11:56:32 INFO  page_Object.PersonalDetails_Page - Clicking on: Marital status option Single
+2025-11-26 11:56:32 INFO  page_Object.PersonalDetails_Page - Clicking Save button.
+2025-11-26 11:56:32 INFO  page_Object.PersonalDetails_Page - Clicking on: Save button
+2025-11-26 11:56:32 INFO  utils.Hooks - Closing WebDriver...
+2025-11-26 11:56:32 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-26 11:56:32 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-26 11:56:50 INFO  utils.Hooks - Setting Extent system info...
+2025-11-26 11:56:50 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-26 11:56:50 INFO  utils.Hooks - Starting WebDriver...
+2025-11-26 11:56:50 INFO  utils.Config - Loading config for environment: qa
+2025-11-26 11:56:50 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-26 11:56:50 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-26 11:56:52 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-26 11:56:52 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-26 11:56:52 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-26 11:56:52 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-26 11:56:52 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-26 11:56:52 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-26 11:56:53 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-26 11:56:53 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-26 11:56:53 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-26 11:56:54 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-26 11:56:54 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-26 11:56:54 INFO  page_Object.PersonalDetails_Page - Clicking on My Info Menu
+2025-11-26 11:56:54 INFO  page_Object.PersonalDetails_Page - Clicking on: My info Menu
+2025-11-26 11:56:54 INFO  page_Object.PersonalDetails_Page - Entering First Name
+2025-11-26 11:56:54 INFO  page_Object.PersonalDetails_Page - Typing 'John' into: First Name Field
+2025-11-26 11:56:55 INFO  page_Object.PersonalDetails_Page - Entering middle name: {}
+2025-11-26 11:56:55 INFO  page_Object.PersonalDetails_Page - Typing 'A' into: Middle name field
+2025-11-26 11:56:55 INFO  page_Object.PersonalDetails_Page - Entering last name: {}
+2025-11-26 11:56:55 INFO  page_Object.PersonalDetails_Page - Typing 'Doe' into: Last name field
+2025-11-26 11:56:55 INFO  page_Object.PersonalDetails_Page - Selecting marital status: {}
+2025-11-26 11:56:55 INFO  page_Object.PersonalDetails_Page - Clicking on: Marital status dropdown
+2025-11-26 11:56:55 INFO  page_Object.PersonalDetails_Page - Clicking on: Marital status option Single
+2025-11-26 11:56:55 INFO  page_Object.PersonalDetails_Page - Clicking Save button.
+2025-11-26 11:56:55 INFO  page_Object.PersonalDetails_Page - Clicking on: Save button
+2025-11-26 11:56:55 INFO  utils.Hooks - Closing WebDriver...
+2025-11-26 11:56:55 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-26 11:56:55 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-26 11:59:49 INFO  utils.Hooks - Setting Extent system info...
+2025-11-26 11:59:49 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-26 11:59:49 INFO  utils.Hooks - Starting WebDriver...
+2025-11-26 11:59:49 INFO  utils.Config - Loading config for environment: qa
+2025-11-26 11:59:49 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-26 11:59:49 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-26 11:59:50 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-26 11:59:50 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-26 11:59:50 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-26 11:59:51 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-26 11:59:51 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-26 11:59:51 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-26 11:59:51 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-26 11:59:51 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-26 11:59:51 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-26 11:59:52 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-26 11:59:52 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-26 11:59:52 INFO  page_Object.PersonalDetails_Page - Clicking on My Info Menu
+2025-11-26 11:59:52 INFO  page_Object.PersonalDetails_Page - Clicking on: My info Menu
+2025-11-26 11:59:53 INFO  page_Object.PersonalDetails_Page - Entering First Name
+2025-11-26 11:59:53 INFO  page_Object.PersonalDetails_Page - Typing 'John' into: First Name Field
+2025-11-26 11:59:53 INFO  page_Object.PersonalDetails_Page - Entering middle name: {}
+2025-11-26 11:59:53 INFO  page_Object.PersonalDetails_Page - Typing 'A' into: Middle name field
+2025-11-26 11:59:53 INFO  page_Object.PersonalDetails_Page - Entering last name: {}
+2025-11-26 11:59:53 INFO  page_Object.PersonalDetails_Page - Typing 'Doe' into: Last name field
+2025-11-26 11:59:53 INFO  page_Object.PersonalDetails_Page - Selecting marital status
+2025-11-26 11:59:53 INFO  page_Object.PersonalDetails_Page - Clicking on: Marital status dropdown
+2025-11-26 11:59:54 INFO  page_Object.PersonalDetails_Page - Clicking on: Marital status option Married
+2025-11-26 11:59:54 INFO  page_Object.PersonalDetails_Page - Clicking Save button.
+2025-11-26 11:59:54 INFO  page_Object.PersonalDetails_Page - Clicking on: Save button
+2025-11-26 11:59:54 INFO  utils.Hooks - Closing WebDriver...
+2025-11-26 11:59:54 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-26 11:59:54 INFO  utils.DriverManager - WebDriver quit successfully.
