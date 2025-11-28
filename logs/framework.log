@@ -1106,3 +1106,402 @@ Session ID: f54cd8394a141f4f8983e04b0fd4e624
 2025-11-26 11:59:54 INFO  utils.Hooks - Closing WebDriver...
 2025-11-26 11:59:54 INFO  utils.DriverManager - Quitting WebDriver...
 2025-11-26 11:59:54 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 10:26:01 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 10:26:01 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 10:26:01 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 10:26:01 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 10:26:01 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 10:26:01 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 10:26:03 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 10:26:03 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 10:26:03 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 10:26:04 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 10:26:04 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 10:26:04 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 10:26:04 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 10:26:05 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 10:26:05 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 10:26:06 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 10:26:06 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 10:26:06 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 10:26:06 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 10:26:06 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 11:12:30 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 11:12:30 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 11:12:30 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 11:12:30 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 11:12:30 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 11:12:30 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 11:12:31 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 11:12:31 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 11:12:31 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 11:12:32 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 11:12:32 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 11:12:32 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 11:12:32 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 11:12:32 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 11:12:32 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 11:12:34 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 11:12:34 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 11:12:34 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 11:12:34 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 11:12:34 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User searches candidate 'John Doe'
+2025-11-27 11:12:34 INFO  page_Object.Recruitment_Page - Searching candidate by name: John Doe
+2025-11-27 11:12:45 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 11:12:45 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 11:12:45 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 11:12:45 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 11:12:45 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 11:20:58 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 11:20:58 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 11:20:58 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 11:20:58 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 11:20:58 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 11:20:58 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 11:20:59 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 11:20:59 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 11:20:59 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 11:21:00 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 11:21:00 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 11:21:00 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 11:21:00 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 11:21:00 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 11:21:00 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 11:21:01 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 11:21:01 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 11:21:01 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 11:21:01 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 11:21:01 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 11:21:02 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 11:21:02 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 11:21:02 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 11:21:02 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 11:22:38 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 11:22:38 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 11:22:38 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 11:22:38 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 11:22:38 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 11:22:38 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 11:22:39 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 11:22:39 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 11:22:39 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 11:22:39 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 11:22:39 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 11:22:39 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 11:22:40 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 11:22:40 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 11:22:40 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 11:22:41 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 11:22:41 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 11:22:41 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 11:22:41 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 11:22:41 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 11:22:42 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 11:22:42 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 11:22:42 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 11:22:42 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 11:35:28 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 11:35:28 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 11:35:28 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 11:35:28 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 11:35:28 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 11:35:28 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 11:35:30 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 11:35:30 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 11:35:30 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 11:35:30 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 11:35:30 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 11:35:30 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 11:35:31 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 11:35:31 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 11:35:31 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 11:35:32 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 11:35:32 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 11:35:32 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 11:35:32 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 11:35:33 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User finds 'John Doe' in candidates profile
+2025-11-27 11:35:33 INFO  page_Object.Recruitment_Page - Searching candidate by name: John Doe
+2025-11-27 11:35:34 INFO  page_Object.Recruitment_Page - Selecting candidate checkbox...
+2025-11-27 11:35:44 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 11:35:44 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 11:35:44 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 11:35:44 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 11:35:44 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 11:36:55 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 11:36:55 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 11:36:55 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 11:36:55 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 11:36:55 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 11:36:55 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 11:36:57 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 11:36:57 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 11:36:57 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 11:36:57 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 11:36:57 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 11:36:57 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 11:36:58 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 11:36:58 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 11:36:58 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 11:36:59 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 11:36:59 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 11:36:59 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 11:36:59 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 11:36:59 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User finds 'John' in candidates profile
+2025-11-27 11:36:59 INFO  page_Object.Recruitment_Page - Searching candidate by name: John
+2025-11-27 11:37:00 INFO  page_Object.Recruitment_Page - Selecting candidate checkbox...
+2025-11-27 11:37:10 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 11:37:11 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 11:37:11 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 11:37:11 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 11:37:11 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 11:55:38 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 11:55:38 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 11:55:38 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 11:55:38 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 11:55:38 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 11:55:38 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 11:55:39 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 11:55:39 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 11:55:39 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 11:55:39 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 11:55:39 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 11:55:39 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 11:55:40 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 11:55:40 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 11:55:40 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 11:55:41 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 11:55:41 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 11:55:41 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 11:55:41 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 11:55:42 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User finds 'John' in candidates profile
+2025-11-27 11:55:42 INFO  page_Object.Recruitment_Page - Searching candidate by name: John
+2025-11-27 11:55:43 INFO  page_Object.Recruitment_Page - Clicking Search button...
+2025-11-27 11:55:43 INFO  page_Object.Recruitment_Page - Selecting candidate checkbox for: John
+2025-11-27 11:55:53 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 11:55:53 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 11:55:53 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 11:55:53 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 11:55:53 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 11:59:20 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 11:59:20 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 11:59:20 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 11:59:20 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 11:59:20 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 11:59:20 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 11:59:21 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 11:59:21 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 11:59:21 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 11:59:22 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 11:59:22 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 11:59:22 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 11:59:22 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 11:59:22 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 11:59:22 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 11:59:24 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 11:59:24 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 11:59:24 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 11:59:24 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 11:59:24 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User finds 'John' in candidates profile
+2025-11-27 11:59:24 INFO  page_Object.Recruitment_Page - Searching candidate by name: John
+2025-11-27 11:59:25 INFO  page_Object.Recruitment_Page - Selecting candidate checkbox...
+2025-11-27 11:59:35 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 11:59:35 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 11:59:35 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 11:59:35 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 11:59:35 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 12:00:29 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 12:00:29 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 12:00:29 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 12:00:29 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 12:00:29 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 12:00:29 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 12:00:30 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 12:00:30 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 12:00:30 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 12:00:31 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 12:00:31 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 12:00:31 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 12:00:32 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 12:00:32 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 12:00:32 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 12:00:33 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 12:00:33 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 12:00:33 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 12:00:33 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 12:00:34 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User finds 'John' in candidates profile
+2025-11-27 12:00:34 INFO  page_Object.Recruitment_Page - Searching candidate by name: John
+2025-11-27 12:00:34 INFO  page_Object.Recruitment_Page - Selecting candidate checkbox...
+2025-11-27 12:00:45 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 12:00:45 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 12:00:45 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 12:00:45 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 12:00:45 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 12:14:29 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 12:14:29 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 12:14:29 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 12:14:29 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 12:14:29 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 12:14:29 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 12:14:30 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 12:14:30 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 12:14:30 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 12:14:31 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 12:14:31 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 12:14:31 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 12:14:31 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 12:14:31 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 12:14:31 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 12:14:32 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 12:14:32 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 12:14:32 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 12:14:32 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 12:14:33 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 12:14:33 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 12:14:33 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 12:20:05 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 12:20:05 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 12:20:05 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 12:20:05 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 12:20:05 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 12:20:05 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 12:20:06 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 12:20:06 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 12:20:06 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 12:20:07 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 12:20:07 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 12:20:07 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 12:20:07 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 12:20:07 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 12:20:07 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 12:20:08 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 12:20:08 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 12:20:08 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 12:20:08 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 12:20:20 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 12:20:20 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 12:20:20 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 12:20:20 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 12:20:20 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 12:26:06 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 12:26:06 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 12:26:06 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 12:26:06 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 12:26:06 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 12:26:06 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 12:26:07 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 12:26:07 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 12:26:07 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 12:26:07 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 12:26:07 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 12:26:07 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 12:26:08 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 12:26:08 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 12:26:08 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 12:26:09 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 12:26:09 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 12:26:09 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 12:26:09 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 12:26:10 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 12:26:10 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 12:26:10 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 12:26:10 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 12:26:11 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 12:27:17 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 12:27:17 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 12:27:17 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 12:27:17 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 12:27:17 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 12:27:17 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 12:27:18 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 12:27:18 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 12:27:18 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 12:27:19 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 12:27:19 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 12:27:19 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 12:27:20 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 12:27:20 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 12:27:20 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 12:27:21 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 12:27:21 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 12:27:21 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 12:27:21 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 12:27:34 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 12:27:34 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 12:27:34 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 12:27:34 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 12:27:34 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 12:31:47 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 12:31:47 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 12:31:47 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 12:31:47 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 12:31:47 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 12:31:47 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 12:31:49 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 12:31:49 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 12:31:49 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 12:31:49 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 12:31:49 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 12:31:49 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 12:31:50 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 12:31:50 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 12:31:50 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 12:31:51 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 12:31:51 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 12:31:51 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 12:31:51 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 12:32:04 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 12:32:04 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 12:32:04 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 12:32:04 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 12:32:05 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 12:36:28 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 12:36:28 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 12:36:28 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 12:36:28 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 12:36:28 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 12:36:28 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 12:36:30 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 12:36:30 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 12:36:30 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 12:36:30 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 12:36:30 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 12:36:30 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 12:36:31 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 12:36:31 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 12:36:31 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 12:36:32 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 12:36:32 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 12:36:32 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 12:36:32 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 12:36:34 INFO  page_Object.Recruitment_Page - Clicking on: clicking search button
+2025-11-27 12:36:45 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 12:36:45 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 12:36:45 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 12:36:45 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 12:36:46 INFO  utils.DriverManager - WebDriver quit successfully.
+2025-11-27 12:41:02 INFO  utils.Hooks - Setting Extent system info...
+2025-11-27 12:41:02 INFO  utils.Hooks - Extent system info set successfully.
+2025-11-27 12:41:02 INFO  utils.Hooks - Starting WebDriver...
+2025-11-27 12:41:02 INFO  utils.Config - Loading config for environment: qa
+2025-11-27 12:41:02 INFO  utils.Config - Config file /config/qa.properties loaded successfully.
+2025-11-27 12:41:02 INFO  utils.DriverManager - Initializing WebDriver. Browser from config: chrome
+2025-11-27 12:41:04 INFO  utils.DriverManager - Chrome browser launched and maximized.
+2025-11-27 12:41:04 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User is on the Orange home page
+2025-11-27 12:41:04 INFO  page_Object.Login_Page - Navigating to OrangeHRM login page: https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2025-11-27 12:41:04 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User logs in with username 'Admin' and password '********'
+2025-11-27 12:41:04 INFO  page_Object.Login_Page - Logging in with username: Admin
+2025-11-27 12:41:04 INFO  page_Object.Login_Page - Typing 'Admin' into: Username field
+2025-11-27 12:41:05 INFO  page_Object.Login_Page - Typing 'admin123' into: Password field
+2025-11-27 12:41:05 INFO  page_Object.Login_Page - Clicking on: Login button
+2025-11-27 12:41:05 INFO  step_Definitions.Login_Page_Step_Definitions - Step: User should see the dashboard
+2025-11-27 12:41:06 INFO  page_Object.Login_Page - Dashboard header is visible.
+2025-11-27 12:41:06 INFO  step_Definitions.Login_Page_Step_Definitions - Dashboard visibility assertion passed.
+2025-11-27 12:41:06 INFO  step_Definitions.Recruitment_Page_Step_Definitions - Step: User clicks on Recruitment option
+2025-11-27 12:41:06 INFO  page_Object.Recruitment_Page - Clicking on Recruitment menu...
+2025-11-27 12:41:08 INFO  page_Object.Recruitment_Page - Clicking on: clicking search button
+2025-11-27 12:41:09 INFO  page_Object.Recruitment_Page - Clicking on: Clicking on the Pop Up Delete Button
+2025-11-27 12:41:20 ERROR utils.Hooks - Scenario FAILED: User logged in as an Admin
+2025-11-27 12:41:20 INFO  utils.Hooks - Screenshot captured and attached.
+2025-11-27 12:41:20 INFO  utils.Hooks - Closing WebDriver...
+2025-11-27 12:41:20 INFO  utils.DriverManager - Quitting WebDriver...
+2025-11-27 12:41:20 INFO  utils.DriverManager - WebDriver quit successfully.
