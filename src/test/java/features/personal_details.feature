@@ -1,6 +1,5 @@
 Feature: Validate personal details
 
-  @Smoke
   Scenario: Validate multiple personal details using Map
     Given User is on the Orange Home Page
     And User logs in with "Admin" and "admin123"
