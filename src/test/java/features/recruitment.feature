@@ -1,6 +1,6 @@
 Feature: Remove Candidate
 
-  @Smoke
+
   Scenario: User logged in as an Admin
     Given User is on the Orange Home Page
     And User logs in with "Admin" and "admin123"
